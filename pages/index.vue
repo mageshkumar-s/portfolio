@@ -23,7 +23,7 @@
       <div class="grid lg:grid-cols-2 gap-10 items-center justify-items-center mx-20">
         <a class="card h-full w-full shadow-2xl group p-5" href="#">
           <figure>
-            <img class="scale-75" src="/public/text-to-speech.png" alt="text-to-speech" />
+            <img class="scale-75" src="/text-to-speech.png" alt="text-to-speech" />
           </figure>
           <div class="card-body">
             <h3 class="text-xl lg:text-2xl font-bold group-hover:link">
@@ -38,7 +38,7 @@
         </a>
         <a class="card h-full w-full shadow-2xl group p-5" href="#">
           <figure>
-            <img class="scale-75" src="/public/text-to-speech.png" alt="text-to-speech" />
+            <img class="scale-75" src="/text-to-speech.png" alt="text-to-speech" />
           </figure>
           <div class="card-body">
             <h3 class="text-xl lg:text-2xl font-bold group-hover:link">

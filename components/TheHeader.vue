@@ -5,7 +5,7 @@
       <a class="link text-xl">Home</a>
       <a class="link text-xl">Projects</a>
       <a class="link text-xl">About</a>
-      <a class="btn text-white bg-amber-500 rounded-full hover:bg-amber-500" v-on=""
+      <a class="btn text-white bg-amber-500 rounded-full hover:bg-amber-500" 
         >Let's Talk</a
       >
     </div>
